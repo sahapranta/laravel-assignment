@@ -2,7 +2,10 @@
 
 This is a simple assignment to use Filamentphp and openai api to generate image from the user given keyword.
 
-### Install
+### Screenshots
+![Screenshot](https://github.com/sahapranta/laravel-assignment/blob/main/screenshots/dall-e.gif)
+
+### Installation
 
 -   Clone this repo `git clone https://github.com/sahapranta/laravel_assignment` or download as zip file
 
